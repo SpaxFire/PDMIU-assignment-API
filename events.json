@@ -1,161 +1,170 @@
-[{
-  "id": "[#49d51]",
-  "title": "assunzione matever",
-  "description": "1cp 500mg",
-  "date": "2026-01-08T16:54:43.898889",
-  "time": {
-    "startHour": 7,
-    "startMinute": 30,
-    "endHour": null,
-    "endMinute": null
-  },
-  "recurrence": {
-    "type": "daily",
-    "interval": 1,
-    "weekdays": null,
-    "dayOfMonth": null,
-    "startDate": "2026-01-08T16:54:43.898889",
-    "endDate": null,
-    "maxOccurrences": null
-  }
-}, {
-  "id": "[#34339]",
-  "title": "assunzione cardioaspirina a pranzo",
-  "description": null,
-  "date": "2026-01-08T16:55:23.430905",
-  "time": {
-    "startHour": 12,
-    "startMinute": 30,
-    "endHour": null,
-    "endMinute": null
-  },
-  "recurrence": {
-    "type": "daily",
-    "interval": 1,
-    "weekdays": null,
-    "dayOfMonth": null,
-    "startDate": "2026-01-08T16:55:23.430905",
-    "endDate": null,
-    "maxOccurrences": null
-  }
-}, {
-  "id": "[#c2971]",
-  "title": "assunzione matever",
-  "description": "1cp 500mg",
-  "date": "2026-01-08T16:59:56.282748",
-  "time": {
-    "startHour": 12,
-    "startMinute": 30,
-    "endHour": null,
-    "endMinute": null
-  },
-  "recurrence": {
-    "type": "daily",
-    "interval": 1,
-    "weekdays": null,
-    "dayOfMonth": null,
-    "startDate": "2026-01-08T16:59:56.282748",
-    "endDate": null,
-    "maxOccurrences": null
-  }
-}, {
-  "id": "[#a3cdb]",
-  "title": "assunzione matever",
-  "description": "2cp 500mg",
-  "date": "2026-01-08T17:01:43.093783",
-  "time": {
-    "startHour": 20,
-    "startMinute": 0,
-    "endHour": null,
-    "endMinute": null
-  },
-  "recurrence": {
-    "type": "daily",
-    "interval": 1,
-    "weekdays": null,
-    "dayOfMonth": null,
-    "startDate": "2026-01-08T17:01:43.093783",
-    "endDate": null,
-    "maxOccurrences": null
-  }
-}, {
-  "id": "[#8dbda]",
-  "title": "assunzione Ramipril",
-  "description": "1cp 5mg",
-  "date": "2026-01-08T17:07:50.851518",
-  "time": {
-    "startHour": 20,
-    "startMinute": 0,
-    "endHour": null,
-    "endMinute": null
-  },
-  "recurrence": {
-    "type": "daily",
-    "interval": 1,
-    "weekdays": null,
-    "dayOfMonth": null,
-    "startDate": "2026-01-08T17:07:50.851518",
-    "endDate": null,
-    "maxOccurrences": null
-  }
-}, {
-  "id": "[#8367f]",
-  "title": "assunzione Gardenale",
-  "description": "1cp 100mg + 1cp 50mg",
-  "date": "2026-01-08T17:08:59.191564",
-  "time": {
-    "startHour": 20,
-    "startMinute": 0,
-    "endHour": null,
-    "endMinute": null
-  },
-  "recurrence": {
-    "type": "daily",
-    "interval": 1,
-    "weekdays": null,
-    "dayOfMonth": null,
-    "startDate": "2026-01-08T17:08:59.191564",
-    "endDate": null,
-    "maxOccurrences": null
-  }
-}, {
-  "id": "[#e2867]",
-  "title": "assunzione Atorvastatina",
-  "description": "1cp 20mg",
-  "date": "2026-01-08T17:10:20.678291",
-  "time": {
-    "startHour": 20,
-    "startMinute": 0,
-    "endHour": null,
-    "endMinute": null
-  },
-  "recurrence": {
-    "type": "daily",
-    "interval": 1,
-    "weekdays": null,
-    "dayOfMonth": null,
-    "startDate": "2026-01-08T17:10:20.678291",
-    "endDate": null,
-    "maxOccurrences": null
-  }
-}, {
-  "id": "[#0c97b]",
-  "title": "chiamare CUP per appuntamento angio TAC vasi intracranici",
-  "description": null,
-  "date": "2026-01-12T00:00:00.000",
-  "time": {
-    "startHour": 8,
-    "startMinute": 0,
-    "endHour": 12,
-    "endMinute": 0
-  },
-  "recurrence": {
-    "type": "daily",
-    "interval": 1,
-    "weekdays": null,
-    "dayOfMonth": null,
-    "startDate": "2026-01-12T00:00:00.000",
-    "endDate": null,
-    "maxOccurrences": 5
-  }
-}]
+[
+    {
+        "id": "[#49d51]",
+        "title": "assunzione matever",
+        "description": "1cp 500mg",
+        "date": "2026-01-08T16:54:43.898889",
+        "time": {
+            "startHour": 7,
+            "startMinute": 30,
+            "endHour": null,
+            "endMinute": null
+        },
+        "recurrence": {
+            "type": "daily",
+            "interval": 1,
+            "weekdays": null,
+            "dayOfMonth": null,
+            "startDate": "2026-01-08T16:54:43.898889",
+            "endDate": null,
+            "maxOccurrences": null
+        }
+    },
+    {
+        "id": "[#34339]",
+        "title": "assunzione cardioaspirina a pranzo",
+        "description": null,
+        "date": "2026-01-08T16:55:23.430905",
+        "time": {
+            "startHour": 12,
+            "startMinute": 30,
+            "endHour": null,
+            "endMinute": null
+        },
+        "recurrence": {
+            "type": "daily",
+            "interval": 1,
+            "weekdays": null,
+            "dayOfMonth": null,
+            "startDate": "2026-01-08T16:55:23.430905",
+            "endDate": null,
+            "maxOccurrences": null
+        }
+    },
+    {
+        "id": "[#c2971]",
+        "title": "assunzione matever",
+        "description": "1cp 500mg",
+        "date": "2026-01-08T16:59:56.282748",
+        "time": {
+            "startHour": 12,
+            "startMinute": 30,
+            "endHour": null,
+            "endMinute": null
+        },
+        "recurrence": {
+            "type": "daily",
+            "interval": 1,
+            "weekdays": null,
+            "dayOfMonth": null,
+            "startDate": "2026-01-08T16:59:56.282748",
+            "endDate": null,
+            "maxOccurrences": null
+        }
+    },
+    {
+        "id": "[#a3cdb]",
+        "title": "assunzione matever",
+        "description": "2cp 500mg",
+        "date": "2026-01-08T17:01:43.093783",
+        "time": {
+            "startHour": 20,
+            "startMinute": 0,
+            "endHour": null,
+            "endMinute": null
+        },
+        "recurrence": {
+            "type": "daily",
+            "interval": 1,
+            "weekdays": null,
+            "dayOfMonth": null,
+            "startDate": "2026-01-08T17:01:43.093783",
+            "endDate": null,
+            "maxOccurrences": null
+        }
+    },
+    {
+        "id": "[#8dbda]",
+        "title": "assunzione Ramipril",
+        "description": "1cp 5mg",
+        "date": "2026-01-08T17:07:50.851518",
+        "time": {
+            "startHour": 20,
+            "startMinute": 0,
+            "endHour": null,
+            "endMinute": null
+        },
+        "recurrence": {
+            "type": "daily",
+            "interval": 1,
+            "weekdays": null,
+            "dayOfMonth": null,
+            "startDate": "2026-01-08T17:07:50.851518",
+            "endDate": null,
+            "maxOccurrences": null
+        }
+    },
+    {
+        "id": "[#8367f]",
+        "title": "assunzione Gardenale",
+        "description": "1cp 100mg + 1cp 50mg",
+        "date": "2026-01-08T17:08:59.191564",
+        "time": {
+            "startHour": 20,
+            "startMinute": 0,
+            "endHour": null,
+            "endMinute": null
+        },
+        "recurrence": {
+            "type": "daily",
+            "interval": 1,
+            "weekdays": null,
+            "dayOfMonth": null,
+            "startDate": "2026-01-08T17:08:59.191564",
+            "endDate": null,
+            "maxOccurrences": null
+        }
+    },
+    {
+        "id": "[#e2867]",
+        "title": "assunzione Atorvastatina",
+        "description": "1cp 20mg",
+        "date": "2026-01-08T17:10:20.678291",
+        "time": {
+            "startHour": 20,
+            "startMinute": 0,
+            "endHour": null,
+            "endMinute": null
+        },
+        "recurrence": {
+            "type": "daily",
+            "interval": 1,
+            "weekdays": null,
+            "dayOfMonth": null,
+            "startDate": "2026-01-08T17:10:20.678291",
+            "endDate": null,
+            "maxOccurrences": null
+        }
+    },
+    {
+        "id": "[#0c97b]",
+        "title": "chiamare CUP per appuntamento angio TAC vasi intracranici",
+        "description": null,
+        "date": "2026-01-12T00:00:00.000",
+        "time": {
+            "startHour": 8,
+            "startMinute": 0,
+            "endHour": 12,
+            "endMinute": 0
+        },
+        "recurrence": {
+            "type": "daily",
+            "interval": 1,
+            "weekdays": null,
+            "dayOfMonth": null,
+            "startDate": "2026-01-12T00:00:00.000",
+            "endDate": null,
+            "maxOccurrences": 5
+        }
+    }
+]
